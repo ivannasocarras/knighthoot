@@ -1,0 +1,54 @@
+{
+  "_": {
+    "postman_variable_scope": "environment",
+    "postman_exported_at": "2025-11-12T22:55:23.846Z",
+    "postman_exported_using": "Newman/6.2.1"
+  },
+  "id": "fbdd9936-caa9-428d-a35b-2fd07eb0b3c1",
+  "name": "environment",
+  "values": [
+    {
+      "type": "any",
+      "value": "https://knighthoot.app",
+      "key": "base_url"
+    },
+    {
+      "type": "any",
+      "value": "test> switched to db Knighthoot\nKnighthoot> \nKnighthoot> 437930\n\nKnighthoot> ",
+      "key": "otp"
+    },
+    {
+      "type": "any",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTYsInJvbGUiOiJzdHVkZW50IiwiaWF0IjoxNzYyOTg4MTIzLCJleHAiOjE3NjMwMDk3MjN9.LRQE4ppmeKbl3Wkt0UOiqN-i8oR9zzhtKpYPBUJ2LWQ",
+      "key": "login_student_token"
+    },
+    {
+      "type": "any",
+      "value": "6913d86f8239ad9b9da93631",
+      "key": "login_student_dbId"
+    },
+    {
+      "type": "any",
+      "value": 16,
+      "key": "login_student_ID"
+    },
+    {
+      "type": "any",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwicm9sZSI6InRlYWNoZXIiLCJpYXQiOjE3NjI5ODgxMjYsImV4cCI6MTc2MzAwOTcyNn0.Puks0I8F0Htr7FcK43Nt3HuJVqEWBzB8l0jvgU3yd4s",
+      "key": "login_teacher_token"
+    },
+    {
+      "type": "any",
+      "value": "6913da35b2e17adcc82fa282",
+      "key": "login_teacher_dbId"
+    },
+    {
+      "type": "any",
+      "value": 9,
+      "key": "login_teacher_ID"
+    }
+  ],
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2025-11-12T22:55:26.473Z",
+  "_postman_exported_using": "Newman/6.2.1"
+}
